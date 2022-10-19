@@ -3,7 +3,7 @@ site_name: Course Note
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
 site_author: 'Ahmet Kaya'
-site_url: 'https://github.com/ahmetkayatr/course-note-template'
+site_url: 'https://ahmetkayatr.github.io/course-note-template/'
 
 site_description_en: >-
     Course Notes Templates
